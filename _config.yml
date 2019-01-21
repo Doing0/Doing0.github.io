@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: ROB Blog
 SEOTitle: ROB的博客 | ROB Blog
 header-img: img/post-bg-desk.jpg
 email: vip.robluo@gmail.com
@@ -8,7 +8,7 @@ keyword: "PHP,HTML,MySQL,ROB, ROB的博客, robluo,JS,CSS,Web"
 url: "http://Doing0.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Doing0/Doing0.github.io.git" # you code
-repository
+#repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
