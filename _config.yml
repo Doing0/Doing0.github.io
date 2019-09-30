@@ -16,6 +16,9 @@ sidebar-about-description: "资深互联网从业者、自媒体人"
 sidebar-xq: /img/xq.png
 sidebar-wx: /img/wx.jpg
 
+#活跃标签
+featured_tags:  FEATURED TAGS
+
 
 # SNS settings
 RSS: false
