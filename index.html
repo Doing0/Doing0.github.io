@@ -20,7 +20,7 @@ description: "程序员也可有艺术人生"
     </a>
     <p class="post-meta">
 <!--        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%Y-%m-%d" }}-->
-        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%Y-%m-%d" }}
+        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ post.date | date: "%Y-%m-%d" }}
     </p>
 </div>
 <hr>
